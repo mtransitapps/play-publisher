@@ -16,7 +16,6 @@ public class PlayPublisher {
 		System.out.printf("\npkgName: %s", pkgName);
 		String apkFilePath = args[1];
 		System.out.printf("\napkFilePath: %s", apkFilePath);
-
 		System.out.print("\nPublishing... DONE");
 	}
 }
