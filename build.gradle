@@ -1,0 +1,9 @@
+apply plugin: 'application'
+
+mainClassName = "org.mtransit.publisher.PlayPublisher"
+applicationDefaultJvmArgs = ["-Dfile.encoding=UTF-8"]
+
+dependencies {
+    implementation "com.google.apis:google-api-services-androidpublisher:v3-rev86-1.25.0"
+}
+
