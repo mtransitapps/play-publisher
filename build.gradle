@@ -5,5 +5,7 @@ applicationDefaultJvmArgs = ["-Dfile.encoding=UTF-8"]
 
 dependencies {
     implementation "com.google.apis:google-api-services-androidpublisher:v3-rev86-1.25.0"
+    implementation 'com.google.oauth-client:google-oauth-client-java6:1.29.0'
+    implementation 'com.google.oauth-client:google-oauth-client-jetty:1.29.0'
 }
 
