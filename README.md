@@ -1,2 +1,5 @@
-# play-publisher
-Tool to publish apps to the Google Play Store
+# play-publisher [ARCHIVED]
+
+Unsuccessful attempt at re-inventing the wheel.
+
+Using https://github.com/Triple-T/gradle-play-publisher/
